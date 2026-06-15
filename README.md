@@ -43,7 +43,7 @@ cd client
 npm run dev
 ```
 
-Client runs on **http://localhost:3000**
+Client runs on **http://localhost:5173**
 
 ---
 
